@@ -1,7 +1,7 @@
 Checkout Form
 - Purpose of the this project is to write a code that make a checkout form.
 
-Live Version: https://ckatkatcheckoutform.netlify.app/
+Live Version: https://katkatcankutay.github.io/Checkout_Form/
 
 Problem Statement
 - Write a code that creates a checkout form.
